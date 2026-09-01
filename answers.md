@@ -9,6 +9,7 @@
 
 
 ## 2. Vad är ett Git-commit och varför är det viktigt?
+    En git commit är när du skriver in det du har jobbat med, git commit är det som bevisar att du gjort det, och används som versionshistorik för att se skillnad mellan nya och gamla versioner. Du kan också lägga till ett meddelande när du gör en git commit och det är bra att skriva något kort om vad commiten handlar om. Detta är viktigt för att kunna se version historiken, veta vem som ändrade, och vad som ändrades. Tack vare git commits kan du gå tillbaka till en gammal commit om din nya commit pajade allting. Git commit är alltså grunden till att versionhistoriken fungerar, utan den skulle det bara flyga grejer upp och ner från molnet utan någon koll om vad som gjordes och vem som gjorde det.
 
 
 ## 3. Vad innebär samarbete med GitHub? Vad är pull requests, branches och merge?
